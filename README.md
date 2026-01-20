@@ -33,10 +33,9 @@
 
 
 🌟 Proyectos Destacados
-🔹 Análisis de Datos Campaña Política
+🔹 Mapa de Votos Oviedo
+Proyecto dedicado a identificar los lugares de votación más importantes de Juan Daniel Oviedo, con análisis y visualización de datos usando Python.
+🔗 Ver resultado en HTML
+🔹 Apuestas Deportivas
 
-Procesamiento y análisis de información estratégica, con visualizaciones y reportes de indicadores clave usando Python.
-
-🔹 Dashboard de Información Consolidada
-
-Dashboard interactivo para seguimiento de métricas y patrones de comportamiento en múltiples fuentes de datos, desarrollado con Python y html.
+Proyecto de análisis de datos aplicado a resultados deportivos, con procesamiento y visualización usando Python.
