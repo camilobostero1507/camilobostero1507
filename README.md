@@ -33,9 +33,9 @@
 
 
 🌟 Proyectos Destacados
-🔹 Mapa de Votos Oviedo
-Proyecto dedicado a identificar los lugares de votación más importantes de Juan Daniel Oviedo, con análisis y visualización de datos usando Python.
-🔗 Ver resultado en HTML
-🔹 Apuestas Deportivas
+### 🔹 [Mapa de Votos Oviedo](https://github.com/camilobostero1507/Mapa-Votos-Oviedo)
+Proyecto dedicado a **identificar los lugares de votación más importantes de Juan Daniel Oviedo**, con análisis y visualización de datos usando **Python**.  
+🔗 [Ver resultado en HTML](https://camilobostero1507.github.io/Mapa-Votos-Oviedo/mapa_votos_detalle.html)
 
-Proyecto de análisis de datos aplicado a resultados deportivos, con procesamiento y visualización usando Python.
+### 🔹 [Apuestas Deportivas](https://github.com/camilobostero1507/Apuestas-deportivas)
+Proyecto de análisis de datos aplicado a resultados deportivos, con procesamiento y visualización usando **Python**.
