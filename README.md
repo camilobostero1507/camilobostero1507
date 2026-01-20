@@ -14,15 +14,17 @@
 
 💬 Pregúntame sobre Python, análisis de datos, GCP y automatización de procesos
 
-📫 Contáctame: juan.camilo@email.com
+📫 Contáctame: juan-leonb@javeriana.edu.co
 
 🛠️ Tecnologías y Herramientas
 
-
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 📊 Estadísticas de GitHub
-
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=camilobostero1507&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=camilobostero1507&layout=compact&theme=radical)
 
 
 
