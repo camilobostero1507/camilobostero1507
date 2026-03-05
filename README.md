@@ -29,13 +29,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<div align="center">
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=camilobostero1507&show_icons=true&theme=radical&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=camilobostero1507&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
